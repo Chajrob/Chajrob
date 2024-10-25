@@ -22,7 +22,7 @@
 5. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
 6. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
 -->
-🛠️ **Skills:**\
+🛠️ **Skills:**
 - **Languages:** Python
 <!-- - **Frameworks:** React JS, Express JS, TensorFlow
 - **Libraries:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib-->
