@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-🚀 **Nazarov Guseyn**
-*a student of programming*  
-UrbanUni
+🚀 **Nazarov Guseyn**\
+*a student of programming*\
+*UrbanUni*
 <!--
 💡 **Projects:**
 1. **DevVani ChatApp:** Experience Real-Time Communication with our MERN-based Chat Application.
